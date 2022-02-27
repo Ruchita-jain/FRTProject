@@ -3,3 +3,5 @@
 
 ## Alpha Learn
 Alpha Learn will help students to find thier study resources.
+
+Collaborator with [Shivani Makvana](https://github.com/ShivaniMakvana)
